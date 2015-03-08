@@ -1,0 +1,24 @@
+{
+  "name": "geostream",
+  "version": "0.0.1",
+  "description": "GeoJSON atomic object transform stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wpears/geostream.git"
+  },
+  "keywords": [
+    "GeoJSON",
+    "transform",
+    "stream"
+  ],
+  "author": "Wyatt Pearsall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpears/geostream/issues"
+  },
+  "homepage": "https://github.com/wpears/geostream"
+}
